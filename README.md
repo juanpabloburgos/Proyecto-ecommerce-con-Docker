@@ -7,7 +7,9 @@ Ecosistema de microservicios con **Spring Boot**, empaquetado en imágenes **Doc
 
 ## Arquitectura
 
-![Diagrama de arquitectura](docs/arquitectura.png)
+<img width="1192" height="746" alt="arquitectura" src="https://github.com/user-attachments/assets/8896472c-fd81-464f-8c7d-90916cee338d" />
+
+
 
 | Servicio | Puerto | Publicado al equipo | Descripción |
 |---|---|---|---|

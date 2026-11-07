@@ -81,14 +81,8 @@ docker compose down -v                    # apagar y borrar también los volúme
 ├── api-gateway/
 ├── producto-service/
 ├── pedido-service/
-├── docs/            (imágenes del README)
-└── postman/         (colección de ejemplos)
-```
+
+
 
 Cada servicio tiene su propio `Dockerfile` multi-stage (imagen `eclipse-temurin:17-jre-alpine`, usuario no root) y su `.dockerignore`.
 
-
-
-
-
-<img width="1192" height="746" alt="arquitectura" src="https://github.com/user-attachments/assets/651c97fc-85a4-419a-a578-4c0f4db3cbe0" />
